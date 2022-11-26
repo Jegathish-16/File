@@ -1,0 +1,10 @@
+name of the student-1:Tony
+age of the student-1:19
+dept of the student-1:AI-Ds
+semester percentage of the student-1:80
+
+name of the student-2:Thor
+age of the student-2:19
+dept of the student-2:AI-DS
+semester percentage of the student-2:80
+
